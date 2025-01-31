@@ -1,1 +1,2 @@
 This is file for merge-rebase-squash
+Merge - Merges the commit according to timestamps
