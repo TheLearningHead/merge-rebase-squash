@@ -1,2 +1,3 @@
 This is file for merge-rebase-squash
 Merge - Merges the commit according to timestamps
+Squash - First merge all the commits of the feature branch and then merge with main
