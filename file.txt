@@ -1,1 +1,2 @@
 This is file for merge-rebase-squash
+Rebase - The commits of the feature branch at present at the top
